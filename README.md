@@ -1,24 +1,41 @@
 ## Olá sejam todos bem-vindos, sou o Ash A. Orlowska, Escritor e Futuro Full-Stack!
 <div align = "center">
-    <a href= "https://github.com/ashorlowska"></a>
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=ashorlowska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashorlowska&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/AshOrlowska">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ashorlowska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashorlowska&layout=compact&langs_count=7&theme=dracula" />
 </div>
-<div style ="display: inline_block"> <br>
-  <img align= "center" alt= "Ash-Js" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align= "center" alt= "Ash-Ts" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align= "center" alt= "Ash-React" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align= "center" alt= "Ash-HTML" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align= "center" alt= "Ash-CSS" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align= "center" alt= "Ash-Phyton" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align= "center" alt= "Ash-Csharp" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div style = "display: inline_block"> <br>
+  <img align = "center" alt = "Ash-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align = "center" alt = "Ash-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
+  <img align = "center" alt = "Ash-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  <img align = "center" alt = "Ash-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align = "center" alt = "Ash-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align = "center" alt = "Ash-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+  <img align = "center" alt = "Ash-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg ">
+  <img align = "right" alt = "Ash-pic" height = "150" style = "border-radius: 50px;" src = "https://avatars.githubusercontent.com/u/81665287?v=4">
+</div>
   
-</div>
-
-<br>
-## Total de visitas no meu perfil: detetive: <br>
- <div align = "center"> 
-   <img alingn = "center" src = "https://profile-counter.glitch.me/AshOrlowska/count.svg" />
+  ##
  
-
-</div>
+<div> 
+  <a href="https://www.youtube.com/channel/UCFHAAeC6J7poqqa3RvBsuIA" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white" target ="_blank "> </a>
+  <a href="https://instagram.com/ashorlowska" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+ 	<a href="https://www.twitch.tv/ashorlowska" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target ="_ blank"> </a>
+ <a href="https://discord.gg/FmNZrduamU" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "        target= "_blank "></a> 
+  <a href = "mailto:ashorlowska@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+  <a href="https://www.linkedin.com/in/ashorlowska/" target="_blank"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMWqdCJNL1aRb9-z9TJbdvYR9ed6PkjidnzHLs3mfiU8uoLbBg7UB69dNdef66AhHonY&usqp=CAU" style={height="30", width="30"} target="_blank"></a> 
+ </div>
+    
+##
+    
+    
+ <div align="center" style = "display: inline_block">
+   <a href="https://loja.uiclap.com/titulo/ua654/" target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua654.jpg" style={height="200", width="200", padding:"10"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="200", width="200", padding:"10"} target="_blank" /></a>
+   <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="190", width="190", padding:"10"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="190", width="190", padding:"10"} target="_blank"/></a>
+    </div>
+    
+##
+    
+   
