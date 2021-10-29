@@ -30,10 +30,10 @@
     
     
  <div align="center" style = "display: inline_block">
-   <a href="https://loja.uiclap.com/titulo/ua654/" target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua654.jpg" style={height="200", width="200", padding:"10"} target="_blank"/></a>
-   <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="200", width="200", padding:"10"} target="_blank" /></a>
-   <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="190", width="190", padding:"10"} target="_blank"/></a>
-   <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="190", width="190", padding:"10"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua654/" target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua654.jpg" style={height="200", width="200"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="200", width="200"} target="_blank" /></a>
+   <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="190", width="190"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="190", width="190"} target="_blank"/></a>
     </div>
     
 ##
