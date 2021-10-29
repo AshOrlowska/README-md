@@ -14,3 +14,10 @@
   <img align= "center" alt= "Ash-Csharp" height = "30" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+##
+## Total de visitas no meu perfil: detetive: <br>
+ <p align = "center"> 
+   <img alingn = "center" src = "https://profile-counter.glitch.me/AshOrlowska/count.svg" />
+ </p>
+
+</p>
