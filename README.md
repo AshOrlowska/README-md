@@ -1,4 +1,18 @@
-## Olá sejam todos bem-vindos, sou o Ash A. Orlowska, Escritor e Futuro Full-Stack
+## Olá, sou o Ash, Escritor e Futuro Full-Stack <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Sobre mim
+<div style="display: inline_block"  >
+<img align="right" width="250" height="250" style="border-radius:30px;" src=""/>
+<p> - 🎵🎶 Minha alma ama cantar.</p>  
+<p> - 📚 Escritor na maior parte do tempo. </p>
+<p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° semestre.</p>
+<p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
+<p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
+<p> - 😂 Se tem um culpado, eu vou lhes dizer: a culpa toda é da Alura.</p>  
+  
+</div>
+
+##
 <div align = "center">
   <a href="https://github.com/AshOrlowska">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ashorlowska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
