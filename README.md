@@ -2,7 +2,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="programacao.gif??raw=true"/>
+<img align="right" width="250" height="250" style="border-radius:30px;" src="programacao1.gif??raw=true"/>
 <p> - 🎵🎶 Minha alma ama cantar.</p>  
 <p> - 📚 Escritor na maior parte do tempo. </p>
 <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° semestre.</p>
