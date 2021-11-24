@@ -1,6 +1,6 @@
 ## Olá, sou o Ash, Escritor e Futuro Full-Stack <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  
 
-### Sobre mim
+### Sobre mim:
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="programacao1.gif??raw=true"/>
 <p> - 🎵🎶 Minha alma ama cantar.</p>  
