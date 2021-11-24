@@ -1,4 +1,4 @@
-## Olá sejam todos bem-vindos, sou o Ash A. Orlowska, Escritor e Futuro Full-Stack!
+## Olá sejam todos bem-vindos, sou o Ash A. Orlowska, Escritor e Futuro Full-Stack
 <div align = "center">
   <a href="https://github.com/AshOrlowska">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ashorlowska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
