@@ -2,14 +2,13 @@
 
 ### Sobre mim:
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="programacao1.gif?raw=true"/>
-<p> - 🎵🎶 Minha alma ama cantar.</p>  
-<p> - 📚 Escritor na maior parte do tempo. </p>
-<p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° semestre.</p>
-<p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
-<p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
-<p> - 😂 Se tem uma culpada, eu vou lhes dizer: a culpa toda é da Alura.</p>  
-  
+  <img align="right" width="250" height="250" style="border-radius:30px;" src="programacao1.gif?raw=true"/>
+  <p> - 🎵🎶 Minha alma ama cantar.</p>  
+  <p> - 📚 Escritor na maior parte do tempo. </p>
+  <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° semestre.</p>
+  <p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
+  <p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
+  <p> - 😂 Se tem uma culpada, eu vou lhes dizer: a culpa toda é da Alura.</p>  
 </div>
 
 ##
@@ -18,17 +17,31 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ashorlowska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashorlowska&layout=compact&langs_count=7&theme=dracula" />
 </div>
+  
+  ## Minhas Atuais Skills:
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Ash-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align = "center" alt = "Ash-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align = "center" alt = "Ash-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align = "center" alt = "Ash-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
   <img align = "center" alt = "Ash-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
-  <img align = "center" alt = "Ash-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
-  <img align = "center" alt = "Ash-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg ">
   <img align = "right" alt = "Ash-pic" height = "150" border= "3px;" src = "https://avatars.githubusercontent.com/u/81665287?v=4">
 </div>
   
+  ## Minhas Skills em Loading: 
+  <div style = "display: inline_block"> <br>
+   <img align = "center" alt = "Ash-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
+   <img align = "center" alt = "Ash-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+   <img align = "center" alt = "Ash-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg ">
+   <img align = "center" alt = "Ash-Ruby" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg ">
+   <img align = "center" alt = "Ash-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg ">
+   <img align = "center" alt = "Ash-Php" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg ">
+   <img align = "center" alt = "Ash-Docker" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg ">
+   <img align = "center" alt = "Ash-Kotlin" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg ">
+   <img align = "center" alt = "Ash-Flutter" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg ">
+   <img align = "center" alt = "Ash-Wp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg ">
+   <img align = "center" alt = "Ash-MySQL" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
+    
+    
   ##
  
 <div> 
@@ -44,10 +57,10 @@
     
     
  <div align="center" style = "display: inline_block">
-   <a href="https://loja.uiclap.com/titulo/ua654/" target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua654.jpg" style={height="200", width="200"} target="_blank"/></a>
-   <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="200", width="200"} target="_blank" /></a>
-   <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="190", width="190"} target="_blank"/></a>
-   <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="190", width="190"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua654/" target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua654.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="150", width="150"} target="_blank" /></a>
+   <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
     
 ##
