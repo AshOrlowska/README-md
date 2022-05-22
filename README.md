@@ -2,10 +2,10 @@
 
 ### Sobre mim:
 <div style="display: inline_block"  >
-  <img align="right" width="250" height="250" style="border-radius:30px;" src="programacao1.gif?raw=true"/>
+  <img align= "center" width="250" height="250" style="border-radius:30px;" src="programacao1.gif?raw=true"/>
   <p> - 🎵🎶 Minha alma ama cantar.</p>  
   <p> - 📚 Escritor na maior parte do tempo. </p>
-  <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1° semestre.</p>
+  <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 2° semestre.</p>
   <p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
   <p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
   <p> - 😂 Se tem uma culpada, eu vou lhes dizer: a culpa toda é da Alura.</p>  
@@ -41,7 +41,7 @@
    <img align = "center" alt = "Ash-Flutter" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg ">
    <img align = "center" alt = "Ash-Wp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg ">
    <img align = "center" alt = "Ash-MySQL" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
- </div>  
+  </div>  
     
   ##
  
@@ -52,7 +52,8 @@
  <a href="https://discord.gg/FmNZrduamU" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "        target= "_blank "></a> 
   <a href = "mailto:ashorlowska.engsoftware @gmail.com" tagert="_blank"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"></a>
   <a href="https://www.linkedin.com/in/ashorlowska/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+  
+  </div>
     
 ##
     
