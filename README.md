@@ -58,6 +58,7 @@
    <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="150", width="150"} target="_blank" /></a>
    <a href="https://loja.uiclap.com/titulo/ua2655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua2655.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua3655/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua3655.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua26934/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua26934.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
     
 ##
