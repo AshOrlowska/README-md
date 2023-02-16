@@ -1,11 +1,12 @@
-## Olá, sou o Ash, Escritor e Futuro Full-Stack <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  
+## Olá, sou o Ash, sou Escritor e Amo Tecnologias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  
 
 ### Sobre mim:
-<div style="display: inline_block"  >
-  <img align= "center" width="250" height="250" style="border-radius:30px;" src="programacao1.gif?raw=true"/>
-  <p> - 🎵🎶 Minha alma ama cantar.</p>  
+<div>
+  <p> - 🎵🎶 Minha alma ama cantar.</p>  <img align = "right" alt = "Ash-gif" height = "250" border= "3px;" src = "programacao1.gif?raw=true">
+</div>
+<div>
   <p> - 📚 Escritor na maior parte do tempo. </p>
-  <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 2° semestre.</p>
+  <p> - 👨‍🎓 Estudante de Engenharia de Software.</p>
   <p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
   <p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
   <p> - 😂 Se tem uma culpada, eu vou lhes dizer: a culpa toda é da Alura.</p>  
@@ -19,13 +20,16 @@
   <img align = "center" alt = "Ash-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align = "center" alt = "Ash-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align = "center" alt = "Ash-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  <img align = "center" alt = "Ash-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
+  <img align = "center" alt = "Ash-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
   <img align = "right" alt = "Ash-pic" height = "150" border= "3px;" src = "https://avatars.githubusercontent.com/u/81665287?v=4">
+  
+
 </div>
   
   ## Minhas Skills em Loading: 
  <div style = "display: inline_block"> <br>
    <img align = "center" alt = "Ash-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "> 
-   <img align = "center" alt = "Ash-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
    <img align = "center" alt = "Ash-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
    <img align = "center" alt = "Ash-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg ">
    <img align = "center" alt = "Ash-Ruby" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg ">
