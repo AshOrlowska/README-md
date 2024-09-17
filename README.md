@@ -6,7 +6,7 @@
 </div>
 <div>
   <p> - 📚 Escritor na maior parte do tempo. </p>
-  <p> - 👨‍🎓 Estudante de Engenharia de Software.</p>
+  <p> - 👨‍🎓 Estudante de Meteorologia - Universidade Federal de Alagoas - UFAL.</p>
   <p> - 🎯 Interesse: HTML, CSS, Javascript, Java, Python, Ruby and Ruby on Rails, IA, Kotlin, C, C#, Spring Boot, Micronaut, API, Angular, AWS e Docker.</p>
   <p> - 📖 Quando me perguntaram o que eu queria ser? Há um tempo, eu consegui realizar o sonho de ser Escritor, hoje continuo a escrever, mas achei nas linhas de código um amor a ser investido e estou construindo a minha carreira dentro da programação.</p>
   <p> - 😂 Se tem uma culpada, eu vou lhes dizer: a culpa toda é da Alura.</p>  
